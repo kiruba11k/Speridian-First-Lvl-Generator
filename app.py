@@ -87,7 +87,10 @@ MANDATORY RULES:
    - "Came across your work on..."
    - "I’ve been following your..."
    - "It’s clear from your role in..."
-3. Then reference the prospect’s role/impact/context using: {state['prospect_background']}
+3. Keep the prospect reference to **ONE key highlight** from: {state['prospect_background']}  
+   - STRICT LIMIT: Max 12–14 words.  
+   - Example: "Noticed your journey scaling consumer lending at Huntington."  
+   - DO NOT chain multiple achievements or roles.
 4. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
    - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
    - Academic: "I’m working on workflow automation strategies that align tech with business growth."
