@@ -70,7 +70,7 @@ def generate_message(state: ProspectMessageState) -> ProspectMessageState:
     extracted_name = extract_name_from_background(state['prospect_background'])
     prospect_first_name = extracted_name.split()[0] if extracted_name != "Unknown Prospect" else "there"
     my_name="Joseph"
-    prompt = f"""
+prompt = f"""
 IMPORTANT: Output ONLY the message itself. 
 Do NOT include explanations, labels, or introductions.
 
@@ -84,11 +84,11 @@ MANDATORY RULES:
 3. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
    - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
    - Academic: "I’m working on workflow automation strategies that align tech with business growth."
-   - Hybrid: " I’m focused on automating digital workflows to drive consistency and scale at Speridian."
+   - Hybrid: "I’m focused on automating digital workflows to drive consistency and scale at Speridian."
    - Evangelist: "I’m working on automation strategies that modernize enterprise operations."
 4. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
-5. Follow the cadence:  
-   - Prospect reference → My background (action-driven) → Connection invite.
+5. Follow this exact cadence:
+   Prospect reference → My background (action-driven) → Connection invite.
 6. End with a short, professional invitation to connect. Examples:
    - "Thought it’d be great to connect."
    - "Would love to connect."
@@ -98,6 +98,7 @@ MANDATORY RULES:
 8. ABSOLUTELY FORBIDDEN words: exploring, interested, learning, no easy feat, impressive, noteworthy, remarkable, fascinating, admiring, inspiring, no small feat, no easy task, stood out.
 
 EXAMPLE STRUCTURE (do not alter format):
+
 Hi Michael,
 Noticed your journey scaling consumer and indirect lending at Gateway and TTCU. I’m focused on automating workflows across lending ops to boost speed and consistency. Thought it’d be great to connect.
 Best, Joseph
@@ -143,7 +144,7 @@ Your experience in real estate and mortgage banking, especially with strategic s
 Best, Joseph
 
 Hi Matthew,
-Your leadership in mortgage automation and fintech innovation, especially with Big POS and the ""Farm to Table"" approach, is impressive. I’m focused on streamlining lending workflows for efficiency and control—thought it’d be great to connect.
+Your leadership in mortgage automation and fintech innovation, especially with Big POS and the "Farm to Table" approach, is impressive. I’m focused on streamlining lending workflows for efficiency and control—thought it’d be great to connect.
 Best, Joseph
 
 Hi Nick,
@@ -160,7 +161,7 @@ Best, Joseph
 
 Hi Jason,
 Your background in retail lending and credit risk management at General Electric Credit Union stood out—leading teams and managing underwriting processes. I work on automating lending workflows to help teams scale efficiently. Would be good to connect.
-Best, Joseph
+Best, Joseph
 
 Now create for:
 Prospect: {state['prospect_name']} ({state['designation']} at {state['company']})
@@ -170,7 +171,6 @@ My Background (optional if relevant): PhD in IT | Director, Digital Transformati
 
 Message (STRICTLY 2–3 LINES, under 300 characters):
 Hi {{first_name}},"""
-
     
     
 
