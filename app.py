@@ -172,8 +172,6 @@ My Background (optional if relevant): PhD in IT | Director, Digital Transformati
 Message (STRICTLY 2–3 LINES, under 300 characters):
 Hi {{first_name}},"""
     
-    
-
     try:
         response = groq_llm(prompt, temperature=0.7)
         # Clean response
