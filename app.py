@@ -82,7 +82,7 @@ MANDATORY RULES:
 2. Begin by acknowledging the prospect’s role, leadership, or focus using context from: {state['prospect_background']}
    - Natural openers: "Noticed your...", "Saw your...", "I noticed your...", "Your leadership in..."
 3. If their focus aligns with mine, briefly weave in my background:
-   "As Director of Digital Transformation at Speridian, I focus on AI, automation, and digital strategy to drive efficiency."
+   "I focus on AI, automation, and digital strategy to drive efficiency."
 4. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
 5. End with a short, professional invitation to connect. Examples:
    - "Thought it’d be great to connect."
