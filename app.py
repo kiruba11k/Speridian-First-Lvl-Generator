@@ -79,23 +79,30 @@ Tone: professional, conversational, concise.
 
 MANDATORY RULES:
 1. Start with: "Hi {{first_name}},"
-2. Begin by acknowledging the prospect’s role, leadership, or focus using context from: {state['prospect_background']}
-   - Natural openers: "Noticed your...", "Saw your...", "I noticed your...", "Your leadership in..."
-3. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
+2. Use a dynamic opener (randomly vary among these):
+   - "Noticed your..."
+   - "Saw your..."
+   - "I noticed your..."
+   - "Your leadership in..."
+   - "Came across your work on..."
+   - "I’ve been following your..."
+   - "It’s clear from your role in..."
+3. Then reference the prospect’s role/impact/context using: {state['prospect_background']}
+4. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
    - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
    - Academic: "I’m working on workflow automation strategies that align tech with business growth."
    - Hybrid: "I’m focused on automating digital workflows to drive consistency and scale at Speridian."
    - Evangelist: "I’m working on automation strategies that modernize enterprise operations."
-4. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
-5. Follow this exact cadence:
+5. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
+6. Follow this exact cadence:
    Prospect reference → My background (action-driven) → Connection invite.
-6. End with a short, professional invitation to connect. Examples:
+7. End with a short, professional invitation to connect. Examples:
    - "Thought it’d be great to connect."
    - "Would love to connect."
    - "It would be great to connect."
    - "Would be glad to connect."
-7. Sign off with: "Best, {my_name}" (must include my_name).
-8. ABSOLUTELY FORBIDDEN words: exploring, interested, learning, no easy feat, impressive, noteworthy, remarkable, fascinating, admiring, inspiring, no small feat, no easy task, stood out.
+8. Sign off with: "Best, {my_name}" (must include my_name).
+9. ABSOLUTELY FORBIDDEN words: exploring, interested, learning, no easy feat, impressive, noteworthy, remarkable, fascinating, admiring, inspiring, no small feat, no easy task, stood out.
 
 EXAMPLE STRUCTURE (do not alter format):
 
