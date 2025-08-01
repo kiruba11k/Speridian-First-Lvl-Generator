@@ -84,13 +84,20 @@ MANDATORY RULES:
 3. If their focus aligns with mine, briefly weave in my background:
    "I focus on AI, automation, and digital strategy to drive efficiency."
 4. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
-5. End with a short, professional invitation to connect. Examples:
+5. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
+   - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
+   - Academic: "With a PhD in IT focused on AI and Social Computing, I’m working on workflow automation strategies that align tech with business growth."
+   - Hybrid: "Drawing on 20+ years of experience and a PhD in IT, I’m focused on automating digital workflows to drive consistency and scale at Speridian."
+   - Evangelist: "As a tech evangelist and researcher in AI and LLMs, I’m working on automation strategies that modernize enterprise operations."
+6. Follow the cadence:  
+   - Prospect reference → My background (action-driven) → Connection invite.
+7. End with a short, professional invitation to connect. Examples:
    - "Thought it’d be great to connect."
    - "Would love to connect."
    - "It would be great to connect."
    - "Would be glad to connect."
-6. Sign off with: "Best, {my_name}" (must include my_name).
-7. ABSOLUTELY FORBIDDEN words: exploring, interested, learning, no easy feat, impressive, noteworthy, remarkable, fascinating, admiring, inspiring, no small feat, no easy task, stood out.
+8. Sign off with: "Best, {my_name}" (must include my_name).
+9. ABSOLUTELY FORBIDDEN words: exploring, interested, learning, no easy feat, impressive, noteworthy, remarkable, fascinating, admiring, inspiring, no small feat, no easy task, stood out.
 
 EXAMPLE STRUCTURE (do not alter format):
 Hi Michael,
