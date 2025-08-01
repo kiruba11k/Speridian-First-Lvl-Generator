@@ -70,7 +70,7 @@ def generate_message(state: ProspectMessageState) -> ProspectMessageState:
     extracted_name = extract_name_from_background(state['prospect_background'])
     prospect_first_name = extracted_name.split()[0] if extracted_name != "Unknown Prospect" else "there"
     my_name="Joseph"
-prompt = f"""
+    prompt = f"""
 IMPORTANT: Output ONLY the message itself. 
 Do NOT include explanations, labels, or introductions.
 
