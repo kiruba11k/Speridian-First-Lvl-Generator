@@ -81,23 +81,21 @@ MANDATORY RULES:
 1. Start with: "Hi {{first_name}},"
 2. Begin by acknowledging the prospect’s role, leadership, or focus using context from: {state['prospect_background']}
    - Natural openers: "Noticed your...", "Saw your...", "I noticed your...", "Your leadership in..."
-3. If their focus aligns with mine, briefly weave in my background:
-   "I focus on AI, automation, and digital strategy to drive efficiency."
-4. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
-5. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
+3. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
    - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
-   - Academic: "With a PhD in IT focused on AI and Social Computing, I’m working on workflow automation strategies that align tech with business growth."
-   - Hybrid: "Drawing on 20+ years of experience and a PhD in IT, I’m focused on automating digital workflows to drive consistency and scale at Speridian."
-   - Evangelist: "As a tech evangelist and researcher in AI and LLMs, I’m working on automation strategies that modernize enterprise operations."
-6. Follow the cadence:  
+   - Academic: "I’m working on workflow automation strategies that align tech with business growth."
+   - Hybrid: " I’m focused on automating digital workflows to drive consistency and scale at Speridian."
+   - Evangelist: "I’m working on automation strategies that modernize enterprise operations."
+4. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
+5. Follow the cadence:  
    - Prospect reference → My background (action-driven) → Connection invite.
-7. End with a short, professional invitation to connect. Examples:
+6. End with a short, professional invitation to connect. Examples:
    - "Thought it’d be great to connect."
    - "Would love to connect."
    - "It would be great to connect."
    - "Would be glad to connect."
-8. Sign off with: "Best, {my_name}" (must include my_name).
-9. ABSOLUTELY FORBIDDEN words: exploring, interested, learning, no easy feat, impressive, noteworthy, remarkable, fascinating, admiring, inspiring, no small feat, no easy task, stood out.
+7. Sign off with: "Best, {my_name}" (must include my_name).
+8. ABSOLUTELY FORBIDDEN words: exploring, interested, learning, no easy feat, impressive, noteworthy, remarkable, fascinating, admiring, inspiring, no small feat, no easy task, stood out.
 
 EXAMPLE STRUCTURE (do not alter format):
 Hi Michael,
@@ -200,13 +198,13 @@ Hi {{first_name}},"""
         # if message.count(f"Best, {my_name}") > 1:
         #     parts = message.split(f"Best, {my_name}")
         #     message = parts[0].strip() + f"\n\nBest, {my_name}"
-        if "Glad to be connected" not in message:
-            lines = message.split("\n")
-            if len(lines) > 1:
-                lines.insert(1, "Glad to be connected.")
-            else:
-                message = f"{lines[0]}\nGlad to be connected."
-            message = "\n".join(lines)
+        # if "Glad to be connected" not in message:
+        #     lines = message.split("\n")
+        #     if len(lines) > 1:
+        #         lines.insert(1, "Glad to be connected.")
+        #     else:
+        #         message = f"{lines[0]}\nGlad to be connected."
+        #     message = "\n".join(lines)
 
 # Strip forbidden flattery words if the model sneaks them in
         for word in ["exploring", "interested", "learning", "impressive", "noteworthy", "remarkable", 
