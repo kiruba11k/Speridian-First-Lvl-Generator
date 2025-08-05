@@ -87,7 +87,7 @@ MANDATORY RULES:
    - "Came across your work on..."
    - "I’ve been following your..."
    - "It’s clear from your role in..."
-3. Keep the prospect reference to Only **ONE key highlight** from: {state['prospect_background']}   
+3. Keep the prospect reference to Only **ONE key highlight** from: {state['prospect_background']} in shortly.  
 4. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
    - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
    - Academic: "I’m working on workflow automation strategies that align tech with business growth."
