@@ -87,8 +87,7 @@ MANDATORY RULES:
    - "Came across your work on..."
    - "I’ve been following your..."
    - "It’s clear from your role in..."
-3. Keep the prospect reference to **ONE key highlight** from: {state['prospect_background']}   
-   - DO NOT chain multiple achievements or roles.
+3. Keep the prospect reference to Only **ONE key highlight** from: {state['prospect_background']}   
 4. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
    - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
    - Academic: "I’m working on workflow automation strategies that align tech with business growth."
@@ -195,7 +194,8 @@ Hi {{first_name}},"""
             if message.lower().startswith(phrase.lower()):
                 message = message.split("\n", 1)[-1].strip()
 
-        # Ensure connection note is present
+        # Ensure connection note is present# - DO NOT chain multiple achievements or roles.
+
         # connection_phrases = ["look forward", "would be great", "hope to connect", "love to connect", "looking forward"]
         # if not any(phrase in message.lower() for phrase in connection_phrases):
         #     # Add connection note if missing
