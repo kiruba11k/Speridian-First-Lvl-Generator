@@ -87,6 +87,7 @@ MANDATORY RULES:
    - "Came across your work on..."
    - "I’ve been following your..."
    - "It’s clear from your role in..."
+   - "I find it interesting..."
 3. Keep the prospect reference to Only **ONE key highlight** from: {state['prospect_background']} in short phrase.  
 4. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
    - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
@@ -106,69 +107,100 @@ MANDATORY RULES:
 
 EXAMPLE STRUCTURE (do not alter format):
 
-Hi Michael,
-Noticed your journey scaling consumer and indirect lending at Gateway and TTCU. I’m focused on automating workflows across lending ops to boost speed and consistency. Thought it’d be great to connect.
-Best, Joseph
+Hi Dror,
+Your focus on speeding up execution while embedding sustainable change across digital, ops, and CX caught my interest. I’m connecting with peers exploring similar shifts—would be great to stay in touch.
+Best,
+Joseph
 
-Hi Jed,
-Saw your long-standing leadership across mortgage, consumer, and warehouse lending at TBK. I’m working on automating lending ops to drive faster execution with better control—thought it’d be great to connect.
-Best, Joseph
+Hi Sharon,
+I find it interesting how mortgage lending leaders like you bring structure to such a dynamic space. Always good to connect with those shaping smart, steady growth. Let’s connect and trade notes.
+Best,
+Joseph
 
-Hi James,
-Saw your post on growing referrals and review-driven business—clearly a well-oiled engine. I’m focused on automating lending workflows to boost execution and control behind the scenes. Thought it’d be great to connect.
-Best, Joseph
+Hi Natalie, 
+Working across digital and business tech must give you a unique view of how banks grow with tech. I often think about what it takes to move fast without breaking what works. As fintech professionals, I'd be delighted to connect with you.
+Best,
+Joseph
 
-Hi Jim,
-Saw your work leading product at Mortgage Cadence—especially on MCP Essentials and platform flexibility. I’m focused on automating lending workflows too. Thought it’d be great to connect.
-Best, Joseph
+Hi Ronald,
+Your steady hand in steering remittance payment ops—especially during crises—really stands out. I’ve always believed operational resilience in payments is both a challenge and an opportunity. Would be keen to connect.
+Best, 
+Joseph
 
-Hi Ken,
-Saw the momentum you’re building in reverse at US Mortgage—trusted leadership, national reach, and a sharp ops model. I’m working on automating lending workflows to support that kind of scale. Thought it’d be great to connect.
-Best, Joseph
+Hi Lisa,
+Your role leading retail ops at Simmons—after years across strategy, region ops, and project delivery—gives strong visibility into branch execution. I focus on automating retail workflows to reduce risk and improve turnaround. Would be glad to connect.
+Best, 
+Joseph
 
-Hi George,
-Your leadership at the tech–finance intersection at Antares really stood out—especially your focus on automation and scalable platforms. I’m working on loan ops automation that aligns well with that modernization vision. Thought it’d be great to connect.
-Best, Joseph
+Hi Robert, 
+Saw the 21 Locks project you supported — such a solid example of community-driven lending. I’m exploring how automation is reshaping commercial lending ops. Thought it’d be great to connect and share notes.
+Best,
+Joseph
 
-Hi Corey,
-Noticed your push to build highly engaged, adaptable lending teams at Sunrise Banks. I’m focused on workflow automation that helps support scale without losing that collaborative edge. Thought it’d be good to connect.
-Best, Joseph
+Hi Maria, 
+Caught your panel at COCC Amplify on multi-branding—sounds like an energizing space to be in. I’m exploring how banks are rethinking core innovation and ops with automation. Would be great to connect.
+Best,
+Joseph
 
-Hi Travis,
-I’ve been looking into how IT leaders drive cost optimization without sacrificing agility—your approach at Lower overlaps a lot. I work on lending automation to support similar efficiency. Thought it’d be good to connect.
-Best, Joseph
+Hi David, 
+Saw your work at MissionFed and the Top Tech Awards. I’ve been exploring how credit unions are driving IT-led transformation in ops and member experience. Thought it’d be great to connect.
+Best,
+Joseph
 
-Hi Josh,
-Noticed your focus on making lending processes more efficient and borrower-friendly at Lower. I work on automating workflows to support that level of delivery. Would be glad to connect.
-Best, Joseph
+Hi Vince, 
+I’ve been exploring how credit unions are modernizing lending workflows across real estate, consumer, and indirect. Your role at MissionFed makes this even more relevant. Thought it’d be great to connect.
+Best,
+Joseph
 
-Hi Diane,
-Your extensive work in digital transformation and system conversions at ConnectOne Bank resonates with my focus on automating lending workflows to enhance efficiency and control. Would love to connect.
-Best, Joseph
+Hi Ben, 
+I’ve been exploring how mortgage lenders are simplifying workflows with automation while keeping the borrower experience personal. Your lending background at River Bank & Trust makes this especially relevant. Thought we could connect.
+Best,
+Joseph"
 
-Hi Ed,
-Your experience in real estate and mortgage banking, especially with strategic sales and business development, aligns with my work on automating workflows to boost operational efficiency. Would love to connect.
-Best, Joseph
+Hi Jana, 
+I’ve been diving into how banks are applying AI and automation to rewire core systems and drive real CX value. Your work at CrossFirst sits right at that intersection. Thought it’d be great to connect.
+Best,
+Joseph"
 
-Hi Matthew,
-Your leadership in mortgage automation and fintech innovation, especially with Big POS and the "Farm to Table" approach, is impressive. I’m focused on streamlining lending workflows for efficiency and control—thought it’d be great to connect.
-Best, Joseph
+Hi Patty, 
+I’ve been exploring how credit unions are applying automation across IT and ops to strengthen resilience and streamline service. Your experience leading tech at CU SoCal makes this especially relevant. Thought it’d be great to connect.
+Best,
+Joseph
 
-Hi Nick,
-I noticed your role in leading lending and transactions at Gordon Brothers—particularly your work with transformative financial solutions. I’ve been following trends in capital strategies for distressed corporates and would love to connect.
-Best, Joseph
+Hi Jay, 
+Saw your session with Greenlight and your work at Bank of Ann Arbor. I’ve been digging into how community banks are using digital channels and fintech to drive CX. Thought it’d be great to connect and trade perspectives.
+Best,
+Joseph
 
-Hi Ken,
-I see your focus on mortgage lending and community building through events at United Bank Mortgage. I’ve been exploring how process automation can improve efficiency in lending workflows. It would be great to connect.
-Best, Joseph
+Hi Mark, 
+Your work with the Technology Industry Group at Bank of Ann Arbor is interesting. I’m exploring how banks supporting tech-driven businesses are modernizing lending and ops with automation. Would be great to connect.
+Best,
+Joseph"
 
-Hi David,
-I noticed your leadership in mortgage lending at Firstmark Credit Union—driving member-focused solutions with consistency. I focus on automating workflows to support that kind of execution. Would be great to connect.
-Best, Joseph
+Hi Duane, 
+Noticed your work at First Northern Bank driving tech and innovation across ops and CX. I’m exploring how regional banks are using automation to align IT with business strategy. Thought it’d be great to connect.
+Best,
+Joseph
 
-Hi Jason,
-Your background in retail lending and credit risk management at General Electric Credit Union stood out—leading teams and managing underwriting processes. I work on automating lending workflows to help teams scale efficiently. Would be good to connect.
-Best, Joseph
+Hi Harold, 
+I’ve been exploring how banks like First Northern are modernizing commercial lending to drive efficiency and better CX. Given your role and community leadership in Sacramento, thought it’d be great to connect.
+Best,
+Joseph
+
+Hi Felecia, 
+Your work shaping compliance programs across the mortgage space really stood out. I’ve been exploring how tech and automation are influencing compliance and ops in lending. Thought it’d be great to connect and share insights.
+Best,
+Joseph
+
+Hi Dustin, 
+Congrats on Archway’s momentum—your work at WaFd and Pike Street Labs is a great example of what’s possible when tech meets banking. I’ve been diving into how automation’s reshaping CX and ops. Would be great to connect.
+Best,
+Joseph
+
+Hi John,
+I came across your work in credit leadership at MidFirst. I’m always interested in how leaders like you balance credit soundness and growth in evolving markets. Would be great to connect and exchange ideas.
+Best, 
+Joseph
 
 Now create for:
 Prospect: {state['prospect_name']} ({state['designation']} at {state['company']})
