@@ -74,7 +74,7 @@ def generate_message(state: ProspectMessageState) -> ProspectMessageState:
 IMPORTANT: Output ONLY the message itself. 
 Do NOT include explanations, labels, or introductions.
 
-Write a LinkedIn connection note (MAX 3 LINES, under 300 characters).  
+Write a LinkedIn connection note (MAX 3 LINES, MAX 250 characters).  
 Tone: professional, conversational, concise.
 
 MANDATORY RULES:
@@ -208,7 +208,7 @@ Industry: {state['industry']}
 Key Highlight: {state['prospect_background']}
 My Background (optional if relevant): PhD in IT | Director, Digital Transformation at Speridian | AI & Digital Strategy | Healthcare Informatics | Social Computing Scientist
 
-Message (STRICTLY 2–3 LINES, under 300 characters):
+Message (STRICTLY 2–3 LINES, MAX 250 characters):
 Hi {{first_name}},"""
     
     try:
