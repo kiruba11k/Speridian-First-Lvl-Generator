@@ -90,9 +90,9 @@ MANDATORY RULES:
    - "I find it interesting..."
 3. Keep the prospect reference to Only **ONE key highlight** from: {state['prospect_background']} in short phrase.  
 4. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
-   - Executive Role: "I’m focused on automating workflows across enterprise ops at Speridian, where I lead digital transformation initiatives."
+   - Executive Role: "I focus on automating retail workflows to reduce risk and improve turnaround."
    - Academic: "I’m working on workflow automation strategies that align tech with business growth."
-   - Hybrid: "I’m focused on automating digital workflows to drive consistency and scale at Speridian."
+   - Hybrid: "I’m focused on automating digital workflows to drive consistency and scaling."
    - Evangelist: "I’m working on automation strategies that modernize enterprise operations."
 5. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
 6. Follow this exact cadence:
