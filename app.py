@@ -88,12 +88,82 @@ MANDATORY RULES:
    - "I’ve been following your..."
    - "It’s clear from your role in..."
    - "I find it interesting..."
+   - "Came across your profile..."
+   - "Impressed by your work in..."
+   - "Admire the growth you’ve driven in..."
+   - "Your recent contributions to..."
+   - "Noticed your leadership in..."
+   - "Your profile reflects deep expertise in..."
+   - "The results you’ve achieved at..."
+   - "Caught your recent work on..."
+   - "Your experience in..."
+   - "Saw your role at..."
+   - "Your achievements in..."
+   - "Your insights into..."
+   - "Noticed your career..."
+   - "Your profile reflects excellence in..."
+   - "Saw the innovative strategies you’ve implemented at..."
+   - "Impressed by your journey from..."
+   - "Your track record in..."
+   - "Your contributions to..."
+   - "Saw your recognition in..."
+   - "Your problem-solving approach in..."
+   - "Noticed your focus on..."
+   - "Your role in transforming..."
+   - "Admire the strategic impact you’ve made..."
+   - "Your recent post on..."
+   - "Saw how you’ve scaled..."
 3. Keep the prospect reference to Only **ONE key highlight** from: {state['prospect_background']} in short phrase.  
-4. After referencing the prospect, weave in MY BACKGROUND **using the action-driven pattern**:
-   - Executive Role: "I focus on automating retail workflows to reduce risk and improve turnaround."
-   - Academic: "I’m working on workflow automation strategies that align tech with business growth."
-   - Hybrid: "I’m focused on automating digital workflows to drive consistency and scaling."
-   - Evangelist: "I’m working on automation strategies that modernize enterprise operations."
+4. After referencing the prospect, weave in MY BACKGROUND using the action-driven style (randomly choose ONE):
+
+Executive Role:
+- I focus on automating retail workflows to reduce risk and improve turnaround.
+- I lead automation programs that streamline operations and boost speed-to-market.
+- I drive retail process efficiency to minimize delays and compliance risks.
+- I specialize in operational automation to lower costs and increase reliability.
+- I enable seamless retail workflows that support rapid scaling.
+- I deliver automation frameworks that strengthen consistency across branches.
+- I transform manual-heavy processes into agile, tech-driven workflows.
+- I integrate retail tech to cut inefficiencies and improve delivery timelines.
+- I guide automation initiatives to optimize turnaround and customer satisfaction.
+- I align workflow automation with growth and operational excellence goals.
+
+Academic Role:
+- I’m working on workflow automation strategies that align tech with business growth.
+- I research how automation can bridge operational gaps in retail and banking.
+- I explore process engineering methods that improve turnaround performance.
+- I study tech adoption strategies to enhance retail scalability.
+- I develop models for risk reduction through workflow automation.
+- I focus on academic research linking automation to transformation success.
+- I investigate automation’s role in boosting operational consistency.
+- I analyze digital workflow integration for sustainable business scaling.
+- I evaluate automation-driven process improvements in the retail sector.
+- I create frameworks combining tech innovation with business strategy.
+
+Hybrid Role:
+- I’m focused on automating digital workflows to drive consistency and scaling.
+- I combine strategy and execution to deliver high-impact automation programs.
+- I connect tech innovation with operational scaling in retail workflows.
+- I integrate automation into core business processes to increase agility.
+- I bridge business needs and tech capabilities for smooth workflow adoption.
+- I design automation rollouts that fit both operational and growth needs.
+- I merge leadership and tech skills to optimize turnaround processes.
+- I balance execution speed with automation quality in retail operations.
+- I deliver measurable gains by blending digital tools with process redesign.
+- I craft automation strategies informed by both business and tech priorities.
+
+Evangelist Role:
+- I’m working on automation strategies that modernize enterprise operations.
+- I advocate for automation as a driver of retail transformation.
+- I share insights on scaling automation for competitive advantage.
+- I champion digital workflow adoption to improve consistency.
+- I inspire teams to embrace automation for operational excellence.
+- I promote automation solutions that align with growth strategies.
+- I spotlight best practices in transforming workflows through tech.
+- I encourage industry peers to accelerate automation journeys.
+- I communicate the business value of modernizing processes with automation.
+- I drive conversations on automation as a catalyst for enterprise scaling.
+
 5. Pivot into my current focus areas: automation, lending workflows, digital banking, or transformation strategies.
 6. Follow this exact cadence:
    Prospect reference → My background (action-driven) → Connection invite.
